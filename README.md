@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Nobin Das
+
+🎓 Computer Science graduate from the University of Georgia (UGA)  
+💻 Software Engineer with experience in Python, Java, C/C++, and TypeScript  
+🔧 Firmware Engineering Intern at AMI (BIOS/UEFI development)  
+🛰️ Member & Flight Software Contributor at UGA’s Small Satellite Research Laboratory (MEMESat-1)  
+🌐 Full-stack developer with experience in Spring Boot, Next.js, React, and PostgreSQL  
+
+☁️ Currently learning Cloud technologies and Agentic AI systems.
 
 <!--
 **nobinDas/nobinDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
