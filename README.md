@@ -6,7 +6,7 @@
 🛰️ Member & Flight Software Contributor at UGA’s Small Satellite Research Laboratory (MEMESat-1)  
 🌐 Full-stack developer with experience in Spring Boot, Next.js, React, and PostgreSQL  
 
-☁️ Currently learning Cloud technologies and Agentic AI systems.
+☁️ Currently learning Cloud technologies, Agentic AI systems and building a personal finance tracking application. 
 
 <!--
 **nobinDas/nobinDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
