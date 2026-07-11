@@ -1,24 +1,11 @@
 ## 👋 Hi, I'm Nobin Das
 
-🎓 Computer Science graduate from the University of Georgia (UGA)  
-💻 Software Engineer with experience in Python, Java, C/C++, and TypeScript  
-🔧 Firmware Engineering Intern at AMI (BIOS/UEFI development)  
-🛰️ Member & Flight Software Contributor at UGA’s Small Satellite Research Laboratory (MEMESat-1)  
-🌐 Full-stack developer with experience in Spring Boot, Next.js, React, and PostgreSQL  
+🤖 AI Agent Engineer & Software Engineer passionate about building intelligent systems  
+🎓 B.S. in Computer Science from the University of Georgia (UGA)  
+💻 Skilled in Python, Java, C/C++, and TypeScript  
+🌐 Full-stack development with Spring Boot, Next.js, React, and PostgreSQL  
+🛰️ Flight Software Contributor — MEMESat-1 CubeSat, UGA Small Satellite Research Laboratory  
+🔧 Former Firmware Engineering Intern at AMI (BIOS/UEFI development)  
+🚀 Currently exploring LLM fine-tuning, agentic AI systems, and building personal projects
 
-☁️ Currently learning Cloud technologies, Agentic AI systems and building a personal finance tracking application. 
-
-<!--
-**nobinDas/nobinDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: [LinkedIn](https://linkedin.com/in/nobin-das-nirjhar-1b49b322b) · [Portfolio](https://nobinsportfolio.com)
