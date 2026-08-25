@@ -8,4 +8,4 @@
 🔧 Former Firmware Engineering Intern at AMI (BIOS/UEFI development)  
 🚀 Currently exploring LLM fine-tuning, agentic AI systems, and building personal projects
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/nobin-das-nirjhar-1b49b322b) · [Portfolio]((https://nobinsterminal.com/))
+📫 Reach me: [LinkedIn](https://linkedin.com/in/nobin-das-nirjhar-1b49b322b) · [Portfolio](https://nobinsterminal.com/)
